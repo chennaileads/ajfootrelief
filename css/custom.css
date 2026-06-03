@@ -531,7 +531,7 @@ header.main-header .header-sticky.active{
 }
 
 .navbar{
-	padding: 30px 0;
+	/* padding: 30px 0; */
 	align-items: center;
 }
 
@@ -5336,7 +5336,7 @@ header.main-header .header-sticky.active{
 	}
 	
 	.navbar{
-		padding: 20px 0;
+		/* padding: 20px 0; */
 	}
 	
 	.slicknav_nav li,
